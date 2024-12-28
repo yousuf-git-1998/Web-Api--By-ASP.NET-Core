@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "Z/fsUIbeuJkWxY8ZR/iA8qNhy4GW5N4ylfYdKgwmhXs=",
+  "Source": "R59_M11_Class_01_Work_02",
+  "BasePath": "_content/R59_M11_Class_01_Work_02",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "R59_M11_Class_01_Work_02\\wwwroot",
+      "Source": "R59_M11_Class_01_Work_02",
+      "ContentRoot": "G:\\R59~~ISDB - ASP.NET\\Module-11\\class 02\\R59_M11_Class_01_Works\\R59_M11_Class_01_Work_02\\wwwroot\\",
+      "BasePath": "_content/R59_M11_Class_01_Work_02",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\R59~~ISDB - ASP.NET\\Module-11\\class 02\\R59_M11_Class_01_Works\\R59_M11_Class_01_Work_02\\wwwroot\\Pictures\\1.jpg",
+      "SourceId": "R59_M11_Class_01_Work_02",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\R59~~ISDB - ASP.NET\\Module-11\\class 02\\R59_M11_Class_01_Works\\R59_M11_Class_01_Work_02\\wwwroot\\",
+      "BasePath": "_content/R59_M11_Class_01_Work_02",
+      "RelativePath": "Pictures/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b7yn868f2c",
+      "Integrity": "5yzencb9krU9jZHkwmX/z11AARu/xBOJwmDGH4Z6od8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\1.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Pictures/1.b7yn868f2c.jpg",
+      "AssetFile": "G:\\R59~~ISDB - ASP.NET\\Module-11\\class 02\\R59_M11_Class_01_Works\\R59_M11_Class_01_Work_02\\wwwroot\\Pictures\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5yzencb9krU9jZHkwmX/z11AARu/xBOJwmDGH4Z6od8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Sep 2024 10:01:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b7yn868f2c"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5yzencb9krU9jZHkwmX/z11AARu/xBOJwmDGH4Z6od8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/1.jpg",
+      "AssetFile": "G:\\R59~~ISDB - ASP.NET\\Module-11\\class 02\\R59_M11_Class_01_Works\\R59_M11_Class_01_Work_02\\wwwroot\\Pictures\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5yzencb9krU9jZHkwmX/z11AARu/xBOJwmDGH4Z6od8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Sep 2024 10:01:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5yzencb9krU9jZHkwmX/z11AARu/xBOJwmDGH4Z6od8="
+        }
+      ]
+    }
+  ]
+}
